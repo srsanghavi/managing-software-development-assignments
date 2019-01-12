@@ -5,5 +5,5 @@ This repository contains work done in the [course CS5500 - Managing Software Dev
 
 
 Homework | What is there?
--------------------------
-HW1 | Working with git/github, Maven, and Java.
+-------- | ----------------
+HW1      | Working with git/github, Maven, and Java.
