@@ -27,7 +27,6 @@ public class SequenceTest {
         this.num3 = 5;
         this.testOutList = new ArrayList<Integer>();
         this.testOutList.add(3);
-        this.testOutList.add(4);
     }
 
     /**
