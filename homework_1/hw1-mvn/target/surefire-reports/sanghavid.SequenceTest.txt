@@ -2,7 +2,11 @@
 Test set: sanghavid.SequenceTest
 -------------------------------------------------------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 sec
 =======
 Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 sec
 >>>>>>> feature-3
+=======
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec
+>>>>>>> parent of f3bacb0... add feature to print consecutive even numbers between two numbers
