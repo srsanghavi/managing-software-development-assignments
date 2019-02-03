@@ -1,5 +1,5 @@
-ASTTest.class
-ASTTest4.class
-ASTTest3.class
-ASTTest2.class
+tests/ASTTests.class
+tests3/AST3Tests.class
+tests2/AST2Tests.class
 TestSuite.class
+tests4/AST4Tests.class

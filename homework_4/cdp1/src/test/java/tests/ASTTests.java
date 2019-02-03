@@ -1,9 +1,11 @@
+package tests;
+
 import ast.*;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class ASTTest {
+public class ASTTests {
 
     /*
         Default test case

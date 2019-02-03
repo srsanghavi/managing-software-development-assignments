@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="27" failures="0" name="TestSuite" time="0.027" errors="0" skipped="0">
+<testsuite tests="27" failures="0" name="TestSuite" time="0.033" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.1+13-LTS"/>
@@ -64,31 +64,31 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ASTTest" name="testPrefixExpression" time="0"/>
-  <testcase classname="ASTTest" name="testNestedInfixExpression" time="0"/>
-  <testcase classname="ASTTest" name="testVariableExpression" time="0"/>
-  <testcase classname="ASTTest" name="test1" time="0"/>
-  <testcase classname="ASTTest" name="testStringExpression" time="0.001"/>
-  <testcase classname="ASTTest2" name="testPrefixExpression" time="0.002"/>
-  <testcase classname="ASTTest2" name="testNestedInfixExpression" time="0.001"/>
-  <testcase classname="ASTTest2" name="testVariableExpression" time="0.001"/>
-  <testcase classname="ASTTest2" name="test1" time="0"/>
-  <testcase classname="ASTTest2" name="testStringExpression" time="0"/>
-  <testcase classname="ASTTest3" name="testPrefixExpression" time="0.004"/>
-  <testcase classname="ASTTest3" name="testNestedInfixExpression" time="0"/>
-  <testcase classname="ASTTest3" name="testVariableExpression" time="0.002"/>
-  <testcase classname="ASTTest3" name="test1" time="0.001"/>
-  <testcase classname="ASTTest3" name="testStringExpression" time="0.005"/>
-  <testcase classname="ASTTest4" name="test1Logging" time="0.002"/>
-  <testcase classname="ASTTest4" name="testPrefixExpressionLogging" time="0.001"/>
-  <testcase classname="ASTTest4" name="testVariableExpressionLogging" time="0.002"/>
-  <testcase classname="ASTTest4" name="testPrefixExpression" time="0"/>
-  <testcase classname="ASTTest4" name="testStringExpressionLogging" time="0"/>
-  <testcase classname="ASTTest4" name="testNestedInfixExpression" time="0.001"/>
-  <testcase classname="ASTTest4" name="testVariableExpression" time="0"/>
-  <testcase classname="ASTTest4" name="test1" time="0"/>
-  <testcase classname="ASTTest4" name="testNestedInfixExpressionLogging" time="0.001"/>
-  <testcase classname="ASTTest4" name="testMultipleDeclarationLogging" time="0.002"/>
-  <testcase classname="ASTTest4" name="testStringExpression" time="0"/>
-  <testcase classname="ASTTest4" name="testMultipleDeclaration" time="0.001"/>
+  <testcase classname="tests.ASTTests" name="testPrefixExpression" time="0.003"/>
+  <testcase classname="tests.ASTTests" name="testNestedInfixExpression" time="0"/>
+  <testcase classname="tests.ASTTests" name="testVariableExpression" time="0.001"/>
+  <testcase classname="tests.ASTTests" name="test1" time="0"/>
+  <testcase classname="tests.ASTTests" name="testStringExpression" time="0"/>
+  <testcase classname="tests2.AST2Tests" name="testPrefixExpression" time="0.001"/>
+  <testcase classname="tests2.AST2Tests" name="testNestedInfixExpression" time="0.001"/>
+  <testcase classname="tests2.AST2Tests" name="testVariableExpression" time="0"/>
+  <testcase classname="tests2.AST2Tests" name="test1" time="0.001"/>
+  <testcase classname="tests2.AST2Tests" name="testStringExpression" time="0"/>
+  <testcase classname="tests3.AST3Tests" name="testPrefixExpression" time="0.004"/>
+  <testcase classname="tests3.AST3Tests" name="testNestedInfixExpression" time="0.001"/>
+  <testcase classname="tests3.AST3Tests" name="testVariableExpression" time="0.001"/>
+  <testcase classname="tests3.AST3Tests" name="test1" time="0.002"/>
+  <testcase classname="tests3.AST3Tests" name="testStringExpression" time="0.001"/>
+  <testcase classname="tests4.AST4Tests" name="test1Logging" time="0.003"/>
+  <testcase classname="tests4.AST4Tests" name="testPrefixExpressionLogging" time="0.001"/>
+  <testcase classname="tests4.AST4Tests" name="testVariableExpressionLogging" time="0.003"/>
+  <testcase classname="tests4.AST4Tests" name="testPrefixExpression" time="0.001"/>
+  <testcase classname="tests4.AST4Tests" name="testStringExpressionLogging" time="0.001"/>
+  <testcase classname="tests4.AST4Tests" name="testNestedInfixExpression" time="0"/>
+  <testcase classname="tests4.AST4Tests" name="testVariableExpression" time="0.001"/>
+  <testcase classname="tests4.AST4Tests" name="test1" time="0"/>
+  <testcase classname="tests4.AST4Tests" name="testNestedInfixExpressionLogging" time="0.002"/>
+  <testcase classname="tests4.AST4Tests" name="testMultipleDeclarationLogging" time="0.005"/>
+  <testcase classname="tests4.AST4Tests" name="testStringExpression" time="0"/>
+  <testcase classname="tests4.AST4Tests" name="testMultipleDeclaration" time="0"/>
 </testsuite>
