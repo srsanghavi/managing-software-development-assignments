@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sanghavis.AppTest" time="0.05" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sanghavis.AppTest" time="0.035" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire/surefirebooter3125062737869945682.jar /Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire 2019-02-10T20-12-05_547-jvmRun1 surefire10890252052388337861tmp surefire_015443711782849692641tmp"/>
+    <property name="sun.java.command" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire/surefirebooter1292512682601849872.jar /Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire 2019-02-10T20-21-15_171-jvmRun1 surefire8069683769738616916tmp surefire_07539542242206082489tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/test-classes:/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/classes:/Users/shashwatsanghavi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/shashwatsanghavi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire/surefirebooter3125062737869945682.jar"/>
+    <property name="surefire.real.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/queue/target/surefire/surefirebooter1292512682601849872.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.1+13-LTS"/>
@@ -61,7 +61,7 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="canRemoveMultipleElementsFromQueue" classname="sanghavis.AppTest" time="0.003"/>
+  <testcase name="canRemoveMultipleElementsFromQueue" classname="sanghavis.AppTest" time="0.002"/>
   <testcase name="canRemoveElementFromEmptyQueue" classname="sanghavis.AppTest" time="0"/>
   <testcase name="canCreateEmptyQueue" classname="sanghavis.AppTest" time="0"/>
   <testcase name="canAddElementToQueue" classname="sanghavis.AppTest" time="0"/>
