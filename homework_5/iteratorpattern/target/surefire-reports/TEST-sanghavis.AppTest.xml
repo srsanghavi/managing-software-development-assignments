@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sanghavis.AppTest" time="0.172" tests="17" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="sanghavis.AppTest" time="0.158" tests="17" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire/surefirebooter3201257659409993869.jar /Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire 2019-02-10T20-11-34_053-jvmRun1 surefire3498900031881769493tmp surefire_013017291341886308755tmp"/>
+    <property name="sun.java.command" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire/surefirebooter3196855863023251405.jar /Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire 2019-02-10T20-20-56_728-jvmRun1 surefire13717427706720725495tmp surefire_016678488088559152463tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/test-classes:/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/classes:/Users/shashwatsanghavi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/shashwatsanghavi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire/surefirebooter3201257659409993869.jar"/>
+    <property name="surefire.real.class.path" value="/Users/shashwatsanghavi/Documents/MSD/git1/Student-246-SP19/homework_5/iteratorpattern/target/surefire/surefirebooter3196855863023251405.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.1+13-LTS"/>
@@ -61,15 +61,15 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="checkSizeForsmallAndLargeNumbersBitVector" classname="sanghavis.AppTest" time="0.028"/>
+  <testcase name="checkSizeForsmallAndLargeNumbersBitVector" classname="sanghavis.AppTest" time="0.027"/>
   <testcase name="shouldClearAnUnsetBit" classname="sanghavis.AppTest" time="0"/>
-  <testcase name="bitVectorShouldAllowLargerNumbers" classname="sanghavis.AppTest" time="0.002"/>
-  <testcase name="checkIterator" classname="sanghavis.AppTest" time="0.001"/>
-  <testcase name="copyLargerBitVectorToSmall" classname="sanghavis.AppTest" time="0"/>
+  <testcase name="bitVectorShouldAllowLargerNumbers" classname="sanghavis.AppTest" time="0"/>
+  <testcase name="checkIterator" classname="sanghavis.AppTest" time="0"/>
+  <testcase name="copyLargerBitVectorToSmall" classname="sanghavis.AppTest" time="0.001"/>
   <testcase name="shouldGetSetBit" classname="sanghavis.AppTest" time="0"/>
   <testcase name="shouldCreateAnEmptyBitVector" classname="sanghavis.AppTest" time="0"/>
-  <testcase name="bitVectorShouldHoldNumbers" classname="sanghavis.AppTest" time="0"/>
-  <testcase name="shouldGetLargeSetBit" classname="sanghavis.AppTest" time="0.09"/>
+  <testcase name="bitVectorShouldHoldNumbers" classname="sanghavis.AppTest" time="0.001"/>
+  <testcase name="shouldGetLargeSetBit" classname="sanghavis.AppTest" time="0.088"/>
   <testcase name="checkSizeForsmallNumbersBitVector" classname="sanghavis.AppTest" time="0"/>
   <testcase name="shouldGetUnSetBit" classname="sanghavis.AppTest" time="0"/>
   <testcase name="checkSizeForEmptyBitVector" classname="sanghavis.AppTest" time="0"/>
